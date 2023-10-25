@@ -1,3 +1,25 @@
-bodu {
+body {
   font-family: 'Roboto', sans-serif;
+}
+
+.leftnav {
+  max-width: 150px;
+  height: calc(100vh - 70px);
+  background-color: #152a41;
+  background-image: url('img/sidebar-bg.png');
+  margin-top: 70px;
+}
+
+.princ {
+  margin-top: 70px;
+  max-width: calc(100% - 68px);
+  align-items: center;
+}
+
+.at-badge {
+  background-color: #165bba;
+}
+
+.plus {
+  vertical-align: middle;
 }
